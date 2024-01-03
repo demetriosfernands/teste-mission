@@ -75,10 +75,6 @@ label{
     font-weight: bold;
 }
 
-/*===================*/
-/*Lista do todo */
-/*====================*/
-
 .main-task li{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
